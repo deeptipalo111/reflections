@@ -1,0 +1,3 @@
+ Its better if we allow commit for multiple files because we donot need to commit for every 
+ single changes seperately for every files.It becomes easier to work upon the files.
+ Its a better way of working.
