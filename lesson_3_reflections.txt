@@ -1,0 +1,13 @@
+ manual commit:
+  Pros-
+  1.I can make the necessary commit whicj I think can actually be valuable.
+  Cons-
+  1.I may forget to commit. In that case I would be in trouble when trying to find what all 
+   changes I have made previously.
+
+ Auto commit:
+   Pros:
+   1.Automatically saves the files so it becomes easier for referencing the committed files 
+   for the future.
+   Cons:
+   1.Unwanted changes are also committed.

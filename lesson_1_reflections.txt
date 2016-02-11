@@ -1,0 +1,7 @@
+   It is easier to find bugs with the version control system.
+   We can compare with the previous versions and find what are the changes we had made in the current versions.
+   If we find any bugs in the current version then we can rectify by comparing with the previous version.
+
+   //Second update
+   If we can acess all the versions, then it would be easier on our part to know what all changes we have made in the files.
+   Thus we could easily identify the bugs.
